@@ -1,0 +1,15 @@
+@import url(./navbar/_navbar.css);
+@import url(./conteudo/_conteudo.css);
+@import url(./rodape/rodape.css);
+
+:root {
+  /*  Cores  */
+
+  --preto: #000000;
+  --vermelho: #ee4137;
+  --fundo-conteudo: #333333;
+}
+
+.wrapper {
+  background: var(--fundo-conteudo);
+}

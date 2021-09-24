@@ -1,0 +1,10 @@
+.conteudo {
+  height: 100vh;
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.conteudo__destaque {
+  height: 20rem;
+  background: green;
+}

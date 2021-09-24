@@ -1,0 +1,34 @@
+.cabecalho {
+  height: 68px;
+  background: var(--preto);
+}
+
+.cabecalho__nav {
+  height: 100%;
+  display: flex;
+  width: 1024px;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo__img {
+  margin-left: 1rem;
+}
+
+.cabecalho__btn-voltar {
+  height: 2rem;
+  width: 7rem;
+  display: flex;
+  margin-right: 3rem;
+  align-items: center;
+  border-radius: 0.5rem;
+  background: var(--vermelho);
+  justify-content: space-around;
+}
+
+.cabecalho__btn-toggle {
+  cursor: pointer;
+  display: flex;
+  margin-right: 1rem;
+}
